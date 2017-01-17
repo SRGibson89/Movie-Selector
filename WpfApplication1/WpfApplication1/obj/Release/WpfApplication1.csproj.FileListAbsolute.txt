@@ -1,0 +1,16 @@
+E:\Documents\Visual Studio 2013\Projects\ProjectEuler\WpfApplication1\WpfApplication1\bin\Release\WpfApplication1.exe.config
+E:\Documents\Visual Studio 2013\Projects\ProjectEuler\WpfApplication1\WpfApplication1\bin\Release\WpfApplication1.exe.manifest
+E:\Documents\Visual Studio 2013\Projects\ProjectEuler\WpfApplication1\WpfApplication1\bin\Release\WpfApplication1.application
+E:\Documents\Visual Studio 2013\Projects\ProjectEuler\WpfApplication1\WpfApplication1\bin\Release\WpfApplication1.exe
+E:\Documents\Visual Studio 2013\Projects\ProjectEuler\WpfApplication1\WpfApplication1\bin\Release\WpfApplication1.pdb
+E:\Documents\Visual Studio 2013\Projects\ProjectEuler\WpfApplication1\WpfApplication1\obj\Release\MainWindow.baml
+E:\Documents\Visual Studio 2013\Projects\ProjectEuler\WpfApplication1\WpfApplication1\obj\Release\MainWindow.g.cs
+E:\Documents\Visual Studio 2013\Projects\ProjectEuler\WpfApplication1\WpfApplication1\obj\Release\App.g.cs
+E:\Documents\Visual Studio 2013\Projects\ProjectEuler\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1_MarkupCompile.cache
+E:\Documents\Visual Studio 2013\Projects\ProjectEuler\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.g.resources
+E:\Documents\Visual Studio 2013\Projects\ProjectEuler\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.Properties.Resources.resources
+E:\Documents\Visual Studio 2013\Projects\ProjectEuler\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.csproj.GenerateResource.Cache
+E:\Documents\Visual Studio 2013\Projects\ProjectEuler\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.exe.manifest
+E:\Documents\Visual Studio 2013\Projects\ProjectEuler\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.application
+E:\Documents\Visual Studio 2013\Projects\ProjectEuler\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.exe
+E:\Documents\Visual Studio 2013\Projects\ProjectEuler\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.pdb
